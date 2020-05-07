@@ -56,3 +56,17 @@ body,html{
   height: 50%;
   width: 50%;
 }
+
+.button {
+  background-color: #321473;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #6FD5CC;
+}
