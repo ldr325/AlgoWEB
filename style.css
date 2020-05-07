@@ -32,3 +32,31 @@ body,html{
 .material-icons{
   font-size: 100px;
 }
+
+.Ad{
+  margin-left: 50px;
+  margin-top: 100px;
+  margin-right: 500px;
+}
+
+.content{
+  font-size: 28pt;
+}
+
+.content2{
+  font-size: 18pt;
+  margin-right: 300px;
+}
+
+.main{
+  margin-left: 50px;
+}
+
+.img{
+  height: 50%;
+  width: 50%;
+}
+
+.Warning{
+  font-size: 18pt;
+}
